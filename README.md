@@ -6,7 +6,7 @@ Oburger 2.0 coming soon... Maybe? :P
 
 <img align= "left" alt = "Sindrimt's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=sindrimt&count_private=true&theme=tokyonight" />
 
-<br><br><br><br><br><br>br> <!--:monkaS-->
+<br><br><br><br><br><br><br><br> <!--:monkaS-->
 
 ---
 
