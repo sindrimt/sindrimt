@@ -4,7 +4,7 @@ Oburger 2.0 coming soon... Maybe? :P
 
 ---
 
-<img align= "left" alt = "Sindrimt's Github Stats" src = "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sindrimt&show_icons=true&theme=tokynight)](https://github.com/anuraghazra/github-readme-stats)" />
+<img align= "left" alt = "Sindrimt's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=sindrimt&show_icons=true&theme=tokyonight" />
 
 <!--:monkaS-->
 <br><br><br><br><br><br><br><br><br>
