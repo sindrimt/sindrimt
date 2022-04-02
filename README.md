@@ -1,4 +1,4 @@
-<h3><img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" />▫️Welcome to my github profile▫️<img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" /></h3>
+<h3><img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" />▫️Welcome to my github profile!▫️<img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" /></h3>
 
 ---
 
