@@ -1,4 +1,5 @@
-<h3><img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" />▫️Welcome to my github profile!▫️<img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" /></h3>
+<h3><img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" /><img src = "https://user-images.githubusercontent.com/69514093/161452358-9efc4ffd-e7f7-4075-af18-df02c7050505.gif" width="30" />Welcome to my github profile!<img src = "https://user-images.githubusercontent.com/69514093/161452358-9efc4ffd-e7f7-4075-af18-df02c7050505.gif" width="30" /><img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" /></h3>
+
 
 ---
 
@@ -9,13 +10,11 @@
 ![200w](https://user-images.githubusercontent.com/69514093/161449020-cffaed1b-86ca-4203-bb10-460a68ac90a0.gif)
 
 
-
 You can reach me on <sindrimt@gmail.com> 😎
 
 <!--:monkaS-->
 
-
-### Some languages, tools and technologies i know 😸 :
+### <span>Some languages, tools and technologies i know <img src = "https://user-images.githubusercontent.com/69514093/161452536-0f12e112-7005-44ed-98f5-7666cf41e70c.gif" width="25" /> :</span>
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
