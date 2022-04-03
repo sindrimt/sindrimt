@@ -4,7 +4,7 @@
 
 
 <img align= "right" alt = "Sindrimt's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=sindrimt&show_icons=true&theme=tokyonight" />
-<span>Hi, I'm Sindri - an Informatics student at <a href = "https://www.ntnu.no/">NTNU</a><img src = "https://rankedbyvotes.com/wp-content/uploads/Community-Education.gif" width = "40px"/></span> <br><br>
+<span>Hi, I'm Sindri - Informatics student at <a href = "https://www.ntnu.no/">NTNU</a><img src = "https://rankedbyvotes.com/wp-content/uploads/Community-Education.gif" width = "40px"/></span> <br><br>
 
 ![200w](https://user-images.githubusercontent.com/69514093/161449020-cffaed1b-86ca-4203-bb10-460a68ac90a0.gif)
 
