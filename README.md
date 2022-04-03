@@ -2,7 +2,10 @@
 
 ---
 
+
 <img align= "right" alt = "Sindrimt's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=sindrimt&show_icons=true&theme=tokyonight" />
+Hi, I'm Sindri - an Informatics student at <a href = "https://www.ntnu.no/">NTNU</a> Trondheim 🤗 
+
 
 <!--:monkaS-->
 <br><br><br><br><br><br><br><br><br>
