@@ -1,19 +1,18 @@
 <h2><img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" />Welcome to my github profile!<img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="50" /></h2>
 
-
-
-
-
-
-<img align= "right" alt = "Sindrimt's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=sindrimt&show_icons=true&theme=tokyonight" />
 <span>Hi, I'm Sindri | Informatics student at <a href = "https://www.ntnu.no/">NTNU</a><img src = "https://rankedbyvotes.com/wp-content/uploads/Community-Education.gif" width = "40px"/></span> <br><br>
 
-![200w](https://user-images.githubusercontent.com/69514093/161449020-cffaed1b-86ca-4203-bb10-460a68ac90a0.gif)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-You can reach me on <sindrimt@gmail.com> 😎
+You can reach me on <sindrimt@gmail.com> 
 
-<!--:monkaS-->
 
 ### <span>Some languages, tools and technologies i know <img src = "https://user-images.githubusercontent.com/69514093/161452536-0f12e112-7005-44ed-98f5-7666cf41e70c.gif" width="25" /> :</span>
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
