@@ -6,7 +6,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 You can reach me on <sindrimt@gmail.com> 
 
