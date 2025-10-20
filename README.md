@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-### <span>Some languages, tools and technologies i know <img src = "https://user-images.githubusercontent.com/69514093/161452536-0f12e112-7005-44ed-98f5-7666cf41e70c.gif" width="25" /> :</span>
+### <span>Some languages, tools and technologies i know and work with <img src = "https://user-images.githubusercontent.com/69514093/161452536-0f12e112-7005-44ed-98f5-7666cf41e70c.gif" width="25" /> :</span>
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
