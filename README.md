@@ -11,7 +11,7 @@
   <br/>
   Former CTO — scaled enterprise AI OS to 2 M+ monthly users as a 22-year-old.    
   <br/> 
-  Passionate about startups, AI, and solving hard real-world problems.  
+  Passionate about startups, AI, and solving hard real-world problems.   
   <br/>
   Reach me at: <a href="mailto:sindrimt@gmail.com">sindrimt@gmail.com</a>
 </p>
