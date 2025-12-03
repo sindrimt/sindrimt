@@ -5,7 +5,7 @@
 </h1>
  
 <p align="center">
-  Computer Science Master’s graduate from <a href="https://www.ntnu.no/">NTNU</a>  
+  Computer Science Master’s graduate from <a href="https://www.ntnu.no/">NTNU</a>   
   <br/>
   Founding Engineer @ <a href="https://www.automaxai.com">Automax AI</a> — building the best AI for appraisers.  
   <br/>
