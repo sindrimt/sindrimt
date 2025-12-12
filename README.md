@@ -15,7 +15,7 @@
   <br/>
   Reach me at: <a href="mailto:sindrimt@gmail.com">sindrimt@gmail.com</a>
 </p>
-
+ 
 ---
 
 <h3 align="center">Technologies & Tools I Use</h3>
