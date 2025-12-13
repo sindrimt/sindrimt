@@ -8,7 +8,7 @@
   Computer Science Master’s graduate from <a href="https://www.ntnu.no/">NTNU</a>   
   <br/>
   Founding Engineer @ <a href="https://www.automaxai.com">Automax AI</a> — building the best AI for appraisers.  
-  <br/>
+  <br/> 
   Former CTO — scaled enterprise AI OS to 2 M+ monthly users as a 22-year-old.      
   <br/>    
   Passionate about startups, AI, and solving hard real-world problems.   
