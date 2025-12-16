@@ -1,27 +1,45 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="51" />
+  <!-- <img
+    src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif"
+    width="50"
+    height="51"
+    alt="Steam Happy"
+  /> -->
   Hey, I’m Sindri
-  <img src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif" width="50" height="51" />
+ <!--  <img
+    src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif"
+    width="50"
+    height="51"
+    alt="Steam Happy"
+  /> -->
 </h1>
- 
+
 <p align="center">
-  Computer Science Master’s graduate from <a href="https://www.ntnu.no/">NTNU</a>   
-  <br/>
-  Founding Engineer @ <a href="https://www.automaxai.com">Automax AI</a> — building the best AI for appraisers.  
-  <br/> 
-  Former CTO — scaled enterprise AI OS to 2 M+ monthly users as a 22-year-old.      
-  <br/>     
-  Passionate about startups, AI, and solving hard real-world problems.   
-  <br/>
-  Reach me at: <a href="mailto:sindrimt@gmail.com">sindrimt@gmail.com</a>
+  <img
+    src="https://github.com/user-attachments/assets/86f49b1b-2953-48c4-b0a1-a6fd176ea736"
+    alt="Steam Happy Large"
+    width="300"
+  />
 </p>
- 
+
+<p align="center">
+  Computer Science Master’s graduate from <a href="https://www.ntnu.no/">NTNU</a>
+  <br />
+  Founding Engineer @ <a href="https://www.automaxai.com">Automax AI</a> — building the best AI for appraisers.
+  <br />
+  Former CTO — scaled enterprise AI OS to 2M+ monthly users as a 22-year-old.
+  <br />
+  Passionate about startups, AI, and solving hard real-world problems.
+  <br />
+  📫 Reach me at: <a href="mailto:sindrimt@gmail.com">sindrimt@gmail.com</a>
+</p>
+
 ---
 
-<h3 align="center">Technologies & Tools I Use</h3>
+<h3 align="center">🚀 Technologies & Tools I Use</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
