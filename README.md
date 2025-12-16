@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="center">🚀 Technologies & Tools I Use</h3>
+<h3 align="center">Technologies & Tools I Use</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
