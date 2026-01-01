@@ -11,7 +11,7 @@
     width="50"
     height="51"  
     alt="Steam Happy"  
-  /> -->
+  /> --> 
 </h1> 
 
 <p align="center">
