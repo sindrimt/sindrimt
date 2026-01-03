@@ -17,7 +17,7 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/86f49b1b-2953-48c4-b0a1-a6fd176ea736"
-    alt="Steam Happy Large"
+    alt="Steam Happy Large" 
     width="300"
   />
 </p>
