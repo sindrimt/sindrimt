@@ -4,7 +4,7 @@
     width="50"
     height="51"
     alt="Steam Happy" 
-  /> --> 
+  /> -->  
   Hey, I’m Sindri 
  <!--  <img    
     src="https://user-images.githubusercontent.com/69514093/161380605-ff3e1b4f-14a7-4936-a193-3546c7980b7d.gif"  
