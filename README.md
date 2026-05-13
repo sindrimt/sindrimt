@@ -21,7 +21,7 @@
     width="300"
   />  
 </p>
-
+ 
 <p align="center">
   Computer Science Master’s graduate from <a href="https://www.ntnu.no/">NTNU</a>
   <br />
