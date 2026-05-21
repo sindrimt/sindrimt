@@ -20,7 +20,7 @@
     alt="Steam Happy Large" 
     width="300"
   />  
-</p>
+</p> 
  
 <p align="center">
   Computer Science Master’s graduate from <a href="https://www.ntnu.no/">NTNU</a>
